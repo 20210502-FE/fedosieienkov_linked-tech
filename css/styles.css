@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    position: relative;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.wrapper {
+    max-width: 1140px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.header__wrapper {
+    max-height: 90px;
+}
+
+.header__nav ul {
+    display: flex;
+    max-height: 90px;
+}
+
+.header__img_left {
+    max-width: 23px;
+    margin: 32px 8px 0 0;
+}
+
+.header__logo_left {
+    max-width: 75px;
+    margin-top: 41px;
+    margin-right: 149px;
+}
+
+.header__button_link {
+    margin: 37px 15px;
+}
+
+.header__button_link_search {
+    max-width: 16px;
+    margin-left: 80px;
+}
+
+.header__button_link_basket {
+    max-width: 16px;
+}
+
+.header__button_link_cabinet {
+    max-width: 15px;
+}
+
+.header__nav a {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 23px;
+    text-transform: uppercase;
+    color: #030D15;
+}
+
+.header__wrapper {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.header__nav-item {
+    margin: 33px 28px;
+    display: flex;
+}
+
