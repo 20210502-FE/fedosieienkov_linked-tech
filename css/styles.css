@@ -49,7 +49,7 @@ img {
 .header__logo_left {
     max-width: 75px;
     margin-top: 41px;
-    margin-right: 149px;
+    margin-right: 109px;
 }
 
 .header__button_link {
@@ -86,5 +86,11 @@ img {
 .header__nav-item {
     margin: 33px 28px;
     display: flex;
+}
+
+.header__arrow {
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
 }
 
