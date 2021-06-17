@@ -94,3 +94,180 @@ img {
     padding-left: 8px;
 }
 
+.wrapper__specials {
+    display: flex;
+}
+
+.specials__text_brands {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #C72535;
+    padding-left: 10px;
+    margin-bottom: 3px;
+}
+
+.specials__title {
+    font-weight: 400;
+    font-size: 61px;
+    line-height: 73px;
+    margin-bottom: 29px;
+}
+
+.specials__title_bg {
+    display: block;
+    width: fit-content;
+    font-weight: 600;
+    background-color: rgba(36, 124, 192, .1);
+    color: #247CC0;
+}
+
+.specials__title_text {
+    padding-left: 10px;
+}
+
+.specials__text {
+    padding-left: 10px;
+    font-size: 20px;
+    line-height: 27px;
+    color: rgba(3, 13, 21, .6);
+    margin-bottom: 36px;
+    max-width: 515px;
+}
+
+.specials__price_conteiner {
+    display: flex;
+    padding-left: 10px;
+}
+
+.button__blue {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    padding: 16px 35px;
+    color: #ffffff;
+    background-color: #247CC0;
+    border: none;
+}
+
+.specials__button {
+    margin-right: 31px;
+}
+
+.specials__price {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 27px;
+    color: #030D15;
+}
+
+.specials__old-price {
+    display: flex;
+    align-items: center;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 27px;
+    text-decoration-line: line-through;
+    color: rgba(3, 13, 21, .5);;
+    margin-left: 18px;
+}
+
+.banner__content {
+    display: flex;
+}
+
+.banner__img {
+    max-width: 163px;
+    margin: 76px 42px;
+}
+
+.banner__img_1 {
+    margin-left: 118px;
+}
+
+.banner__img_4 {
+    margin-right: 118px;
+}
+
+.wrapper__special-offer {
+    display: flex;
+}
+
+.special-offer__content {
+    width: inherit;
+}
+
+.wrapper__special-offer_left {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper__special-offer_right {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.special-offer__img {
+    max-width: 262px;
+}
+
+.special-offer__title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 40px;
+    color: #030D15;
+    margin-bottom: 9px;
+}
+
+.special-offer__text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: rgba(3, 13, 21, .6);
+    margin-bottom: 20px;
+}
+
+.special-offer__price {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.special-offer__new-price {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+    color: #030D15;
+    margin-right: 2px;
+}
+
+.special-offer__old-price {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 27px;
+    text-decoration-line: line-through;
+    color: rgba(3, 13, 21, .5);
+}
+
+.special-offer__appraisal {
+    max-width: 65px;
+}
+
+
+
+
+
+
+
+
+
